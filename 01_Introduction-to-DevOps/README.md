@@ -6,4 +6,4 @@
 
 - ## Proof of Completion
 
-<img src="Coursera .pdf" width=800>
+[course](Coursera .pdf)
